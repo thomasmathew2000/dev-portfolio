@@ -1,0 +1,14 @@
+.portfolio {
+  min-height: 500px;
+  margin: 2.5rem 0;
+}
+
+.portfolio content {
+  margin: 2rem 0;
+  color: grey;
+}
+
+.portfolio-item {
+  padding: 4rem 0;
+  border-bottom: rgba(137, 43, 226, 0.342);
+}

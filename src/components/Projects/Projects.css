@@ -1,0 +1,10 @@
+.projects {
+  padding: 2.5rem 0;
+  margin-top: 3rem;
+  border-top: 1px solid rgba(137, 43, 226, 0.375);
+}
+
+.projects .card-final-body {
+  background-color: rgba(70, 75, 222, 0.496);
+  color: rgb(150, 54, 54);
+}
